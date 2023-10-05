@@ -1,4 +1,4 @@
-package com.abc.banking.controllers;
+package com.cg.banking.controllers;
 
 import java.util.Optional;
 
@@ -14,9 +14,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.abc.banking.entities.Customer;
-import com.abc.banking.repositories.CustomerRepository;
-import com.abc.banking.services.CustomerService;
+import com.cg.banking.entities.Customer;
+import com.cg.banking.repositories.CustomerRepository;
+import com.cg.banking.services.CustomerService;
 
 @RestController
 @RequestMapping("/customer")

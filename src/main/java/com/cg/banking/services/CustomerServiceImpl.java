@@ -1,12 +1,12 @@
-package com.abc.banking.services;
+package com.cg.banking.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.abc.banking.entities.Customer;
-import com.abc.banking.repositories.CustomerRepository;
+import com.cg.banking.entities.Customer;
+import com.cg.banking.repositories.CustomerRepository;
 
 @Service
 public class CustomerServiceImpl implements CustomerService {

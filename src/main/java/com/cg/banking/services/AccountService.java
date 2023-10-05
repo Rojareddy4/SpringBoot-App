@@ -1,10 +1,10 @@
-package com.abc.banking.services;
+package com.cg.banking.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.abc.banking.entities.Account;
-import com.abc.banking.repositories.AccountRepository;
+import com.cg.banking.entities.Account;
+import com.cg.banking.repositories.AccountRepository;
 
 import java.util.Optional;
 

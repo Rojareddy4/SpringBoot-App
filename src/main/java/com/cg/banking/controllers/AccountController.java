@@ -1,9 +1,9 @@
-package com.abc.banking.controllers;
+package com.cg.banking.controllers;
 import org.springframework.beans.factory.annotation.Autowired;
 	import org.springframework.web.bind.annotation.*;
 
-import com.abc.banking.entities.Account;
-import com.abc.banking.services.AccountService;
+import com.cg.banking.entities.Account;
+import com.cg.banking.services.AccountService;
 
 import java.util.Map;
 

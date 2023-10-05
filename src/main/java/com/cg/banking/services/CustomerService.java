@@ -1,8 +1,8 @@
-package com.abc.banking.services;
+package com.cg.banking.services;
 
 import java.util.List;
 
-import com.abc.banking.entities.Customer;
+import com.cg.banking.entities.Customer;
 
 public interface CustomerService {
 	

@@ -1,4 +1,4 @@
-package com.abc.banking;
+package com.cg.banking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
